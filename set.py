@@ -70,4 +70,4 @@ s.add(fs)
 print('s =', s)
 # #向为set集合添加子set集合，不合法
 # s.add(s_sub)
-# print('s =', s)
+print('s =', s)
