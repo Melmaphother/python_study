@@ -1,2 +1,2 @@
 # python_study
-This repository records my process of learning python
+This repository records my learning process of python
