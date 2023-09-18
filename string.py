@@ -109,5 +109,8 @@ print(S1.endswith('io'))
     rstrip()：删除字符串后面（右边）的空格或特殊字符。
 """
 
-trip1 = '   ssss   '
+trip1 = '\n\nssss\n\n'
+print(trip1.strip())
+print(trip1.lstrip())
+print(trip1.rstrip())
 
